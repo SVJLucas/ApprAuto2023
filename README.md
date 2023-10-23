@@ -32,6 +32,10 @@ The dataset includes a mix of categorical and numerical variables, providing com
 
 The data underwent robust preprocessing to prepare it for machine learning models. This includes imputation, encoding, and scaling techniques among others.
 
+![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/8940f410-71f4-46cb-9ece-54acc905a6a6)
+
+
+
 ## Modeling
 
 Multiple machine learning models were evaluated with Extreme Gradient Boosting (xgboost) showing the most promising results. An ensemble model was also developed for better performance.
