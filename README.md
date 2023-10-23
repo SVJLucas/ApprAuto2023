@@ -33,10 +33,12 @@ The dataset includes a mix of categorical and numerical variables, providing com
 The data underwent robust preprocessing to prepare it for machine learning models. This includes imputation, encoding, and scaling techniques among others.
 
 ### Before Data Preprocessing
-![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/8940f410-71f4-46cb-9ece-54acc905a6a6)
+![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/7fbba4ea-668f-4034-bab4-cda1dd21fd93)
+
+
 
 ### After Data Preprocessing
-![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/390742f3-4559-4567-915b-7d717f3ea58a)
+![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/8940f410-71f4-46cb-9ece-54acc905a6a6)
 
 
 
