@@ -36,6 +36,7 @@ Multiple machine learning models were evaluated with Extreme Gradient Boosting (
 ## Results
 
 The ensemble model achieved an \( R^2 \) score of 0.8414 on the test set, indicating strong predictive performance. However, the neural network used for predicting the causes of delays showed room for improvement.
+![results_tgv_delay](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/8b9a7258-542a-4fca-bff6-a7a4da4b8e59)
 
 ## Conclusion
 
