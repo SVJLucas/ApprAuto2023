@@ -1,5 +1,8 @@
 # Prediction of TGV Delays Project
 
+![image](https://github.com/SVJLucas/ApprAuto2023/assets/60625769/59224b7c-4259-4120-bc54-980be999fb05)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
